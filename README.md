@@ -8,10 +8,8 @@
 <h2>Certifications</h2>
 
 - [CompTia Security+](https://www.credly.com/badges/f0ff6d03-ed8d-4ca2-8a42-8ecc1791b360)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Salesforce Certified Administrator](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=EsKZj9KLbSl9SBdGx5zmFU5VWQlHlAua2bj95YfWlyIdELvHP7jX01L9mxTeWgs3)
+
 
 <h2> 🤳 Connect with me:</h2>
 
