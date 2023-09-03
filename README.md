@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/)
 
 
-<h2>Certificates</h2>
+<h2>Certifications</h2>
 
 - [CompTia Security+](https://www.credly.com/badges/f0ff6d03-ed8d-4ca2-8a42-8ecc1791b360)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
