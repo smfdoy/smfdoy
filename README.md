@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/smfdoy/ActiveDirectoryLab/tree/main)
   - [Linux Commands to file permissions] (sjks)
+  - [Apply Filter to SQL Query] (sjsj)
 
 
 <h2>Certifications</h2>
