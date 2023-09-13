@@ -3,14 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/smfdoy/ActiveDirectoryLab/tree/main)
-  - [Linux Commands to file permissions]
+  - [Linux Commands to file permissions] (sjks)
 
 
 <h2>Certifications</h2>
 
 - [CompTia Security+](https://www.credly.com/badges/f0ff6d03-ed8d-4ca2-8a42-8ecc1791b360)
 - [Salesforce Certified Administrator](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=EsKZj9KLbSl9SBdGx5zmFU5VWQlHlAua2bj95YfWlyIdELvHP7jX01L9mxTeWgs3)
-- [Google CyberSecurity Professional Certificate]
+- [Google CyberSecurity Professional Certificate] (sis)
 
 
 <h2> 🤳 Connect with me:</h2>
