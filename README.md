@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/smfdoy/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
   - [Linux Commands to file permissions] (sjks)
   - [Apply Filter to SQL Query] (sjsj)
 
