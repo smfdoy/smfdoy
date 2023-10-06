@@ -5,6 +5,8 @@
   - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
   - [Linux Commands to file permissions] (sjks)
   - [Apply Filter to SQL Query] (sjsj)
+  - [Vulnerability Assesment] (Skjv)
+  - [Incident Handlers Journal] (sjkv)
 
 
 <h2>Certifications</h2>
