@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
-  - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux.git)
-  - [Apply Filter to SQL Query] (sjsj)
+  - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux/tree/main)
+  - [Apply Filter to SQL Query](https://github.com/smfdoy/ApplyFiltersToSQLQueries/tree/main)
   - [Vulnerability Assesment] (Skjv)
   - [Incident Handlers Journal] (sjkv)
 
