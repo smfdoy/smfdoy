@@ -5,6 +5,7 @@
   - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
   - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux/tree/main)
   - [Apply Filter to SQL Query](https://github.com/smfdoy/ApplyFiltersToSQLQueries/tree/main)
+  - [Update File through a Python Algorithm]
   - [Vulnerability Assesment] (Skjv)
   - [Incident Handlers Journal] (sjkv)
 
