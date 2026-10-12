@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven! <br/><a href="https://www.linkedin.com/in/steven-doyley-51a5a8100/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
   - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux/tree/main)
