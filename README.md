@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab](lhttps://github.com/smfdoy/ActiveDirectoryLab/tree/main)
+  - [SOC Detection Lab]
+  - [ADB Misconfiguration Detection Lab](https://github.com/smfdoy/ADB-Misconfiguration-Detection-Lab)
   - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux/tree/main)
   - [Apply Filter to SQL Query](https://github.com/smfdoy/ApplyFiltersToSQLQueries/tree/main)
   - [Update File through a Python Algorithm](https://github.com/smfdoy/UpdateFilesThroughPythonAlgorithm/tree/main)
-  - [Vulnerability Assesment]
-  - [Incident Handlers Journal]
 
 
 <h2>Certifications</h2>
