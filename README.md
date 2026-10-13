@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [SOC Detection Lab]
+  - [SOC Detection Lab](https://github.com/smfdoy/SOC-Detection-Lab)
   - [ADB Misconfiguration Detection Lab](https://github.com/smfdoy/ADB-Misconfiguration-Detection-Lab)
   - [Linux Commands to file permissions](https://github.com/smfdoy/CommandsFilePermissionsLinux/tree/main)
   - [Apply Filter to SQL Query](https://github.com/smfdoy/ApplyFiltersToSQLQueries/tree/main)
